@@ -36,11 +36,9 @@
             "path": "next"
         }
     ],
-    "html": [],
-    "css": [],
-    "tailwind": [],
-    "js": [],
-    "react": [],
-    "ts": [],
-    "next": []
+    "html": [
+        {
+            "kirish": "lorem"
+        }
+    ]
 }
