@@ -6,6 +6,15 @@
     "products": [
       { "id": 1, "title": "Phone", "price": 1200 },
       { "id": 2, "title": "Laptop", "price": 2500 }
+    ],
+    "courses":[
+        {"id": 1, "title": "HTML"},
+        {"id": 2, "title": "CSS"},
+        {"id": 3, "title": "Tailwind css"},
+        {"id": 4, "title": "JavaScript"},
+        {"id": 5, "title": "Reactjs"},
+        {"id": 6, "title": "TypeScript"},
+        {"id": 7, "title": "Nextjs"}
     ]
   }
   
