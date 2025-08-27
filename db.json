@@ -1,20 +1,46 @@
 {
-    "users": [
-      { "id": 1, "name": "Ali", "age": 25 },
-      { "id": 2, "name": "Vali", "age": 30 }
+    "courses": [
+        {
+            "id": 1,
+            "title": "HTML",
+            "path": "html"
+        },
+        {
+            "id": 2,
+            "title": "CSS",
+            "path": "css"
+        },
+        {
+            "id": 3,
+            "title": "Tailwind css",
+            "path": "tailwind"
+        },
+        {
+            "id": 4,
+            "title": "JavaScript",
+            "path": "js"
+        },
+        {
+            "id": 5,
+            "title": "Reactjs",
+            "path": "react"
+        },
+        {
+            "id": 6,
+            "title": "TypeScript",
+            "path": "ts"
+        },
+        {
+            "id": 7,
+            "title": "Nextjs",
+            "path": "next"
+        }
     ],
-    "products": [
-      { "id": 1, "title": "Phone", "price": 1200 },
-      { "id": 2, "title": "Laptop", "price": 2500 }
-    ],
-    "courses":[
-        {"id": 1, "title": "HTML"},
-        {"id": 2, "title": "CSS"},
-        {"id": 3, "title": "Tailwind css"},
-        {"id": 4, "title": "JavaScript"},
-        {"id": 5, "title": "Reactjs"},
-        {"id": 6, "title": "TypeScript"},
-        {"id": 7, "title": "Nextjs"}
-    ]
-  }
-  
+    "html": [],
+    "css": [],
+    "tailwind": [],
+    "js": [],
+    "react": [],
+    "ts": [],
+    "next": []
+}
